@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut toi 👋
 
 - 🔭 Je Code Marques.cf
 - 🌱 j'aimerais apprendre le C++
