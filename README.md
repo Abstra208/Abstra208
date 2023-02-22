@@ -1,5 +1,5 @@
-### Salut toi 👋
-#### Je m'appelle Ludovic et voici ce que je fait:
+# Salut toi 👋
+### Je m'appelle Ludovic et voici ce que je fait:
 
 - 🔭 Je Code *[Marques.cf](https://marques.cf)*
 - 🌱 j'aimerais apprendre le C++
@@ -9,3 +9,4 @@
 - ⚡ Fact: Je suis un programmeur HTML, CSS, JS, PYTHON
 - 🎉 age: 14 ans
 
+##### Vous voulez voir mon projet scholaire HTML, CSS et JS ? -> [Marques](https://marques.cf)
