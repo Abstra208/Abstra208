@@ -7,7 +7,7 @@
 - 🤔 J'aide toute personne avec des problème HTML et CSS
 - 📫 Comment me communiquer: LudovicMorin357@hotmail.com
 - 😄 Pronoms: He/Him
-- ⚡ Fact: Je suis un programmeur HTML, CSS, JS, PYTHON
+- ⚡ Fact: Je suis un programmeur HTML, CSS, JS, PYTHON , LUA
 - 🎉 age: 14 ans
 
 ##### Tous mes projet sont disponible [ici](https://github.com/abstra208?tab=repositories)
