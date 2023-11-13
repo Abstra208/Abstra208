@@ -9,5 +9,4 @@
 - ⚡ Fait: Je suis un programmeur HTML, CSS, JS, PYTHON, LUA
 - 🎉 age: 15 ans
 
-##### Supporte moi
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q1R3J4Q)
