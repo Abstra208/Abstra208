@@ -8,5 +8,6 @@
 - 📫 Comment me communiquer: LudovicMorin357@hotmail.com
 - ⚡ Fait: Je suis un programmeur HTML, CSS, JS, PYTHON, LUA
 - 🎉 age: 15 ans
+- 🔵 Ma couleur favorite est le #0967a5
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q1R3J4Q)
