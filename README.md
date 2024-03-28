@@ -6,7 +6,7 @@
 *[Modify Mine](https://modify-mine.netlify.com)*
 - 🌱 j'aimerais apprendre le C++
 - 📫 Comment me communiquer: LudovicMorin357@hotmail.com
-- ⚡ Fait: Je suis un programmeur HTML, CSS, JS, PYTHON, LUA, C++
+- ⚡ Fait: Je suis un programmeur HTML, CSS, Js, Java, Python, Lua, C++
 - 🎉 age: 15 ans
 - 🔵 Ma couleur favorite est le #0967a5
 
