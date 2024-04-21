@@ -16,10 +16,10 @@ Je n'ai que 15 ans, mais ne laissez pas mon âge vous aveugler. Je connais plus 
 - Java
 ## Mes projets
 ### Je travaille actuellement sur plusieurs projets :
-- [About Nothing (1)](https://abstra208.github.io/About-Nothing-1)<br>
+- [About Nothing (1)](https://github.com/abstra208/About-Nothing-1)<br>
 About Nothing est un petit site web que j'ai construit comme projet scolaire pour prouver mon niveau d'apprentissage supérieur aux autres.<br>
 Il ne montre qu'un petit aperçu des produits proposés par la marque Nothing™.
-- [Phat Pi](https://abstra208.github.io/phat-pi)<br>
+- [Phat Pi](https://github.com/abstra208/phat-pi)<br>
 Phat Pi est un autre projet scolaire que je continue de développer pour apprendre le Python et le backend.<br>
 Il permet de contrôler un écran LED appelé Scroll Phat HD. J'aimerais plus tard l'agrandir à n'importe quel écran LED.
 ## Communication
