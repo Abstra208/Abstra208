@@ -1,5 +1,5 @@
 # Ludovic Morin (Abstra208)
-![image](img/untitled.png)
+![image](img/img.png)
 ## Introduction
 **Salut, je m'appelle Ludovic et je suis un jeune Québécois passionné par la technologie.**<br>
 Je n'ai que 15 ans, mais ne laissez pas mon âge vous aveugler. Je connais plus de choses que certaines personnes.
