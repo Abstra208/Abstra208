@@ -15,7 +15,7 @@ Je n'ai que 15 ans, mais ne laissez pas mon âge vous aveugler. Je connais plus 
 - C++
 - Java
 ## Mes projets
-### Je travaille actuellement sur plusieurs projets :
+### Je travaille actuellement sur quelques projets :
 - [About Nothing (1)](https://github.com/abstra208/About-Nothing-1)<br>
 About Nothing est un petit site web que j'ai construit comme projet scolaire pour prouver mon niveau d'apprentissage supérieur aux autres.<br>
 Il ne montre qu'un petit aperçu des produits proposés par la marque Nothing™.
