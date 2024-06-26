@@ -1,5 +1,4 @@
 ![Metrics](/github-metrics.svg)
-![Metrics](/metrics.plugin.isocalendar.svg)
 ![image](img/img.png)
 ## Introduction
 **Salut, je m'appelle Ludovic et je suis un jeune Québécois passionné par la technologie.**<br>
