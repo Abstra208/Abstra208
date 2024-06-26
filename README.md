@@ -1,4 +1,3 @@
-# Ludovic Morin (Abstra208)
 ![Metrics](/github-metrics.svg)
 ![image](img/img.png)
 ## Introduction
