@@ -1,5 +1,14 @@
-![Metrics](/github-metrics.svg)
-![image](img/img.png)
+<div align="center">
+  <img src="https://abstra208.com/abstra208_transparent_circle.png" width="192" height="192">
+  <h1>Abstra208</h1>
+</div>
+<div align="center">
+    ![Repos Badge](https://badges.strrl.dev/repos/Abstra208) ![Commits Badge](https://badges.strrl.dev/commits/all/Abstra208) ![Contributions Badge](https://badges.strrl.decontributions/all/Abstra208) ![Years Badge](https://badges.strrl.dev/years/Abstra208)
+    ![Metrics](./github-metrics.svg)
+</div>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abstra208&theme=rogue" alt="">
+</div>
 ## Introduction
 **Salut, je m'appelle Ludovic et je suis un jeune Québécois passionné par la technologie.**<br>
 Je n'ai que 15 ans, mais ne laissez pas mon âge vous aveugler. Je connais plus de choses que certaines personnes.
