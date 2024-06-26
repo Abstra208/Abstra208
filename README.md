@@ -1,4 +1,4 @@
-![Metrics](/github-metrics.svg)
+# Ludovic Morin (Abstra208)
 ![image](img/img.png)
 ## Introduction
 **Salut, je m'appelle Ludovic et je suis un jeune Québécois passionné par la technologie.**<br>
