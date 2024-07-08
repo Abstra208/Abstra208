@@ -37,3 +37,7 @@ jobs:
           plugin_people: no
           plugin_projects: no
           plugin_stars: no
+          plugin_pagespeed: yes
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://abstra208.com
