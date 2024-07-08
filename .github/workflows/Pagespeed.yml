@@ -20,8 +20,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          filename: pagespeed.screenshot.svg
+          base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_screenshot: yes
           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://abstra208.com
-          plugin_pagespeed_pwa: yes
