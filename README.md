@@ -8,7 +8,7 @@
     </br>
     https://abstra208.com
     </br>
-    <img src="./pagespeed.screenshot.svg" alt="Abstra208.com website pagespeed">
+    <details close><summary>Website Speed Details</summary><img alt="Abstra208.com website pagespeed" src="./pagespeed.screenshot.svg" alt=""></img></details>
 </div>
 
 <div align="center">
