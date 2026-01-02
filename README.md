@@ -1,5 +1,7 @@
 <div align="center">
-    <img src="https://abstra208.com/abstra208_transparent_circle.png" width="192" height="192">
+    <div style="border-radius:50%;">
+      <img src="https://github.com/abstra208.png" width="192" height="192" />
+    </div>
     <h1>Abstra208</h1>
 </div>
 
