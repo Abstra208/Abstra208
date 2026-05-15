@@ -1,3 +1,12 @@
-<div align="center" style="display:flex;flex-direction: row;">
-  <img width="650" alt="20260111_204425" src="https://github.com/user-attachments/assets/65abee93-57d2-4b5b-a1e2-0a64ea54b06d" />
-</div>
+<img width="200" height="200" src="https://github.com/user-attachments/assets/1af903c2-c079-4a2b-b4f3-0f32b25636ee" />
+
+# Ludovic Morin
+
+**Founder, CréaLab** <br/>
+**He / Him ⋅ Qc**
+
+## Link
+
+> [**CréaLab non-profit**](https://crealab.ca)
+
+> [**My portfolio**](https://morin.moi)
